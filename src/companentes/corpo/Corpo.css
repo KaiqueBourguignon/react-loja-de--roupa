@@ -1,0 +1,22 @@
+.beneficios {
+    background-image: url(https://i.pinimg.com/564x/cd/f1/f6/cdf1f6a8b39414c7d3ed983101ff374d.jpg);
+    padding: 50px;
+
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    padding-left: 10%;
+    
+}
+.imagembeneficios {
+    width: 50%;
+}
+
+.titulo-cantralizado {
+    padding: 50px;
+}
+.black {
+    margin-top: px;
+}
